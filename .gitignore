@@ -1,0 +1,14 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+# /typechain                Pushed to git for demo purpose
+# /typechain-types          Pushed to git for demo purpose
+
+# solidity-coverage files
+# /coverage                 Pushed to git for demo purpose
+# /coverage.json            Pushed to git for demo purpose
