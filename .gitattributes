@@ -3,3 +3,5 @@ typechain/* linguist-documentation=false
 typechain/* linguist-vendored
 typechain-types/* linguist-documentation=false
 typechain-types/* linguist-vendored
+coverage/* linguist-documentation=false
+coverage/* linguist-vendored
