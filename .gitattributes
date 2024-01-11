@@ -1,3 +1,5 @@
 *.html linguist-vendored
+/typechain linguist-documentation=false
 /typechain linguist-vendored
+/typechain-types linguist-documentation=false
 /typechain-types linguist-vendored
