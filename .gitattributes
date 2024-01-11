@@ -1,1 +1,3 @@
 *.html linguist-vendored
+/typechain linguist-vendored
+/typechain-types linguist-vendored
